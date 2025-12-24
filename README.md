@@ -6,6 +6,8 @@ A Full stack project for DanAds REST API for managing notes built with Node.js, 
 
 ```
 notes-api/
+├── client/                 # Frontend Project
+|
 ├── src/
 │   ├── controllers/        # Request handlers
 │   │   └── noteController.ts
