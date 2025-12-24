@@ -1,0 +1,107 @@
+[
+  {
+    "id": "e4259517-d069-4c1e-a4c3-ca2eed38d9a9",
+    "title": "Express.js",
+    "content": "A minimal and flexible Node.js web framework.",
+    "createdAt": "2025-12-24T13:25:12.865Z",
+    "updatedAt": "2025-12-24T13:25:12.865Z"
+  },
+  {
+    "id": "4fe7454a-a118-4972-9388-29b373571e5f",
+    "title": "React",
+    "content": "A JavaScript library for building user interfaces.",
+    "createdAt": "2025-12-24T13:25:39.304Z",
+    "updatedAt": "2025-12-24T13:25:39.304Z"
+  },
+  {
+    "id": "a6e71465-51fb-45dd-a2c2-2778c3e96577",
+    "title": "Jasur",
+    "content": "Salom",
+    "createdAt": "2025-12-24T13:25:52.761Z",
+    "updatedAt": "2025-12-24T15:04:25.764Z"
+  },
+  {
+    "id": "41971147-fd6f-41dd-8fe6-aa86e86b0348",
+    "title": "Angular JS",
+    "content": "A platform for building scalable web applications. It is old version of Angular",
+    "createdAt": "2025-12-24T13:26:12.992Z",
+    "updatedAt": "2025-12-24T13:35:56.184Z"
+  },
+  {
+    "id": "7130eda5-1035-4952-bf40-4f7460e8b9b3",
+    "title": "MongoDB",
+    "content": "A NoSQL document-oriented database.",
+    "createdAt": "2025-12-24T13:26:52.465Z",
+    "updatedAt": "2025-12-24T13:26:52.465Z"
+  },
+  {
+    "id": "75b62a94-3525-4660-b08e-50aee9e6ed74",
+    "title": "PostgreSQL",
+    "content": "An advanced open-source relational database system.safgasfgsfgasgasg",
+    "createdAt": "2025-12-24T13:27:07.467Z",
+    "updatedAt": "2025-12-24T15:54:57.241Z"
+  },
+  {
+    "id": "4c846cee-6df4-4ded-99fe-b2abab0bae30",
+    "title": "Html",
+    "content": "This is Hyper Text Markup Language",
+    "createdAt": "2025-12-24T15:06:29.479Z",
+    "updatedAt": "2025-12-24T15:06:29.479Z"
+  },
+  {
+    "id": "fd1f8d77-d95a-46e0-a3b0-999ca11c4adc",
+    "title": "Firebase",
+    "content": "A cloud-hosted NoSQL database for real-time applications.",
+    "createdAt": "2025-12-24T15:15:06.541Z",
+    "updatedAt": "2025-12-24T15:15:06.543Z"
+  },
+  {
+    "id": "37f92c0a-5436-4420-b0c4-bc5448f2075f",
+    "title": "Elasticsearch",
+    "content": "A distributed search and analytics engine for all types of data.",
+    "createdAt": "2025-12-24T15:15:17.032Z",
+    "updatedAt": "2025-12-24T15:15:17.032Z"
+  },
+  {
+    "id": "64187076-1a86-4f3f-8848-58cc7f2af3ba",
+    "title": "No problem",
+    "content": "A graph database optimized for connected data.",
+    "createdAt": "2025-12-24T15:15:26.675Z",
+    "updatedAt": "2025-12-24T17:12:54.310Z"
+  },
+  {
+    "id": "2cdd9b50-e5a8-4696-af60-b12d999ed7bc",
+    "title": "MariaDB",
+    "content": "A community-developed fork of MySQL with enhanced features.",
+    "createdAt": "2025-12-24T15:15:36.395Z",
+    "updatedAt": "2025-12-24T15:15:36.395Z"
+  },
+  {
+    "id": "b61b490d-3910-4a23-b99e-ec6959f15680",
+    "title": "Cassandra",
+    "content": "A highly scalable NoSQL database for handling large amounts of data.",
+    "createdAt": "2025-12-24T15:15:45.124Z",
+    "updatedAt": "2025-12-24T15:15:45.124Z"
+  },
+  {
+    "id": "bae4771d-fc93-409c-8402-f29bf97a72a6",
+    "title": "SQLite",
+    "content": "A lightweight, file-based relational database engine.",
+    "createdAt": "2025-12-24T15:15:53.337Z",
+    "updatedAt": "2025-12-24T15:15:53.337Z"
+  },
+  {
+    "id": "120a9f2e-a0be-4d07-9387-951ba70235a7",
+    "title": "MySQL",
+    "content": "A widely used open-source relational database management system.",
+    "createdAt": "2025-12-24T15:16:01.143Z",
+    "updatedAt": "2025-12-24T15:16:01.143Z"
+  },
+  {
+    "id": "76eae7e6-fb1e-4f9b-a9b6-b3e93cfde183",
+    "title": "Redis",
+    "content": "An in-memory data structure store used as a database and cache.",
+    "createdAt": "2025-12-24T15:16:08.810Z",
+    "updatedAt": "2025-12-24T15:16:08.810Z"
+  }
+]
